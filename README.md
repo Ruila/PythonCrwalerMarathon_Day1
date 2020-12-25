@@ -1,2 +1,2 @@
 # PythonCrwalerMarathon_Day1
-for python marathon homework of day1
+資料來源與檔案存取
